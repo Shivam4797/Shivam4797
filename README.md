@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shivam4797
 - 👀 I’m interested in developing algorithms of ADAS
-- 🌱 I’m currently learning Masters  in Sustainable Technology
+- 🌱 I’m currently studying Masters  in Sustainable Technology
 - 📫 You can Reach me via email todkarshivam41@gmail.com
 
 <!---
